@@ -16,4 +16,4 @@ function sumOfSomething(a, b, fn) {
 let ans = sumOfSomething(12, 13, function (n) {
     return n*n*n;
 });
-console.log(ans);
+console.log(ans); 
